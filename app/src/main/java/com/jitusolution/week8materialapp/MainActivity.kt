@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     val fragments:ArrayList<Fragment> = ArrayList()
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        // Branch: Week 9 Start
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         fragments.add(HomeFragment())
