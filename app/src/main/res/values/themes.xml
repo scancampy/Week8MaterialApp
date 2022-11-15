@@ -19,5 +19,11 @@
     </style>
     <style name="body" parent="TextAppearance.Material3.BodyMedium">
         <item name="fontFamily">@font/source_sans_pro</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="body2" parent="TextAppearance.Material3.BodySmall">
+        <item name="fontFamily">@font/source_sans_pro</item>
+        <item name="android:textSize">18sp</item>
     </style>
 </resources>

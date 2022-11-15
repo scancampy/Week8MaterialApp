@@ -5,4 +5,12 @@
     <string name="home">Home</string>
     <string name="profile">Profile</string>
     <string name="playlist">Playlist</string>
+    <string name="profile_help_text">The registered email cannot be changed through this app. Please contact us if you need further assistance.</string>
+    <string name="profile_sub_text">Change your data and password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full name</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="change_password">Change Password</string>
 </resources>
