@@ -13,4 +13,7 @@
     <string name="repeat_password">Repeat password</string>
     <string name="update_profile">Update Profile</string>
     <string name="change_password">Change Password</string>
+    <string name="edm_playlist">EDM Playlist</string>
+    <string name="play">Play</string>
+    <string name="like">Like</string>
 </resources>

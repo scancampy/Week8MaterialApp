@@ -17,6 +17,11 @@
         <item name="fontFamily">@font/oswald_bold</item>
         <item name="android:textSize">48sp</item>
     </style>
+
+    <style name="heading2" parent="TextAppearance.Material3.HeadlineMedium">
+        <item name="fontFamily">@font/oswald_bold</item>
+        <item name="android:textSize">32sp</item>
+    </style>
     <style name="body" parent="TextAppearance.Material3.BodyMedium">
         <item name="fontFamily">@font/source_sans_pro</item>
         <item name="android:textSize">22sp</item>
